@@ -19,9 +19,10 @@ Setup
 6. After the events are added to the calendar, a separate function is called to update a log stored in scriptProperties. This log keeps track of events that have been added to the calendar, and events older than 2 months are automatically removed from the log.
 
 # Notes
-By default, all future events from the feed will be added to the calendar. If you want to limit the number of events added, you can uncomment the counter code provided and set the desired limit.
-Remember to save the script and set up the trigger for regular execution.
-Make sure your script has the necessary permissions to access the Calendar service.
+- By default, all future events from the feed will be added to the calendar.
+- If you want to limit the number of events added, you can uncomment the counter code provided and set the desired limit.
+- Remember to save the script and set up the trigger for regular execution.
+- Make sure your script has the necessary permissions to access the Calendar service.
 
 Feel free to modify and adapt the code to suit your needs.
 
