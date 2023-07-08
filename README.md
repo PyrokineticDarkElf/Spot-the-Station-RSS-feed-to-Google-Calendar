@@ -6,7 +6,7 @@ Setup
 
 1. Obtain the feed URL: Go to https://spotthestation.nasa.gov/ and find the RSS feed for your desired location. The feed URL will be in the format: https://spotthestation.nasa.gov/sightings/xml_files/[location].xml.
 2. Create a new Apps Script project: Open the Apps Script editor (https://script.google.com/) and create a new project.
-3. Copy the provided code: Replace the default code in the script editor with the code from the provided code.js file.
+3. Copy the provided code: Replace the default code in the script editor with the code from the provided code.gs file.
 4. Customize the script: In the extractSpotTheStationInfo function, update the feedUrl variable with your specific feed URL.
 5. Set up a trigger: In the Apps Script editor, go to Edit > Current project's triggers. Click on the "Add Trigger" button and configure the trigger to run the extractSpotTheStationInfo function at the desired interval (e.g., weekly).
 
