@@ -31,3 +31,5 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 Author
 Staples1010
+
+<a href="https://www.buymeacoffee.com/Invulnerable.Orc"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Invulnerable.Orc&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
